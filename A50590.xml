@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorandums for those that go into the country to dispose the corporations to a good election for members of Parliament to be read by them often.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50590</idno>
+            <idno type="STC">Wing M1680</idno>
+            <idno type="STC">ESTC R18745</idno>
+            <idno type="EEBO-CITATION">12112341</idno>
+            <idno type="OCLC">ocm 12112341</idno>
+            <idno type="VID">54231</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50590)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54231)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 871:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Memorandums for those that go into the country to dispose the corporations to a good election for members of Parliament to be read by them often.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+                  <note>Advice on how to achieve the election of members sympathetic to King James's interest.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Elections --  Great Britain --  Early works to 1800.</term>
+               <term>Political campaigns --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="memoranda">
+            <pb n="1" facs="tcp:54231:1"/>
+            <head>
+               <hi>Memorandums</hi> for thoſe that go into the Country to diſpoſe the Corpora<g ref="char:EOLhyphen"/>tions to a good Election for <hi>Members of Parliament.</hi> To be read by them often.</head>
+            <p n="1">1. ITs neceſſary you weigh well the difficulty of your Work, and Conſi<g ref="char:EOLhyphen"/>der that you will meet with all manner of Deceit and Combination to fruſtrate your Endeavours, the <hi>Clergy</hi> will engage the Centry, and both Endeavour to render you unaceeptable, and your Works fruitleſs, if not top upon you falſe Men under the ſemblance of real Friends.</p>
+            <p n="2">2. Conſider the evil Effects that will attend a Miſcarriage in this Matter. 'Tis not only a fruſtration of the Good expected, but ruinous to your own Intereſt, &amp; expoſing you to Contempt, you muſt expect that no weakneſs or inadvertency of yours in this Work will paſs unobſerved, and the beſt of your actions miſtepreſen<g ref="char:EOLhyphen"/>ted, and every failing magnified, &amp; that haply to the K. or ſome of his Miniſters, which therefore calls for the higheſt Care and Circumſpection.</p>
+            <p n="3">3. You have as full an account of the Perſons, and things for each Corporati<g ref="char:EOLhyphen"/>on, and place as hath hitherto been Collected, which conſider from time to time in the reſpective places as you come at them, and for your Guidance in theſe places find one or two of the beſt, prudenteſt and acceptableſt Perſon or Perſons, and engage them to your Aſſiſtance, and know from them the temper and humour of the reſpective Perſons with whom you are to converſe, and accordingly en<g ref="char:EOLhyphen"/>deavous to ſuit your diſcourſe to their temper and humour.</p>
+            <p n="2">2. Take from place to place Letters recommendatory for the ſtrengthening your intereſt and acceptance, get fit and acceptable Perſons to accompany you to ſuch Gentlemen as you will have occaſion to diſcourſe, for you muſt expect to meet with diſcerning Men, and Men of great Parts, and for that purpoſe be wa<g ref="char:EOLhyphen"/>ry in your expreſſions and converſation, and be not too ready and open in diſcourſe till ſuch Perſons become by their own declarations engaged.</p>
+            <p n="5">5. 'Tis of very great import to this Service, that very good Correſpondents by ſetled in each Town, to whom Letters and Papers to be diſperſed may be ſent, and who ſhall receive every Poſt ſuch Prints and Advices as ſhall be fit and proper for them, and in this you muſt conſider, that the Perſons ſo to be engaged, muſt be right Men, not only by Inclination, but alſo Men of Prudence and Intreſt (if poſſible)</p>
+            <p n="6">6. Where the Corporations do fix upon their Members, inform your ſelyes fully what probability there is of their Election, and what methods will be taken in order thereunto, and when you have fully ſatisfied your ſelves, that ſuch Perſons are right and like to anſwer the K's expectation (in which by your Inſtructions you are not reſtrained to the Perſons Named in your Liſt, in caſe there be Exceptions
+<pb n="2" facs="tcp:54231:2"/>to any of them, or fitter Perſons can be provided). If poſſibly you can get the Electors to write Letters of Invitation to ſuch their intended Members, that by Subſcription under their hands, their Election may be aſcertained, and where they ſhall conſent to elect ſuch as his Majeſty ſhall nominate or recommend, that they do in like manner expreſs their deſire that ſuch Nomination, and Appoint<g ref="char:EOLhyphen"/>ment be made in order to their Election, in which all prudent care is to be had, and the Leading Perſons of ſuch Corporations to be conſulted.</p>
+            <p n="7">7. You are from time to time to give an account of all Occurrences that are material, and of all Suggeſtions, Books, and Libels, that are diſperſed in prejudice of his Majeſties ſervice.</p>
+            <p n="8">8. You muſt be very careful to give a full and diſtinct account of all the Pro<g ref="char:EOLhyphen"/>ceedings every Poſt, and therein an impartial account of the Sentiments of the Perſons with whom you converſe, their inclinations, and reſolutions, what expe<g ref="char:EOLhyphen"/>dients are neceſſary to render the Election certain; which account you are to give from time to time to <hi>Robert Brent</hi> 
+               <abbr>Eſq</abbr> at his Chamber in the <hi>Temple.</hi> The re<g ref="char:EOLhyphen"/>ſpective Correſpondants are in like manner to ſend their Letters to him, and to follow ſuch Directions as from time to time they ſhall receive from him, or Mr. <hi>Edward Roberts,</hi> to whom they may write, directing their Letters to Mr. <hi>Brents</hi> Chamber; but not to give an account of your proceedings to any other Perſons whatever.</p>
+            <p n="9">9. You are likewiſe to conſider the Correſpondents in each Corporation, whe<g ref="char:EOLhyphen"/>ther they are fit and proper, and if not, that others more fit and proper be named, as alſo to enquire whether the Correſpondants do diſperſe the Books &amp; Pa<g ref="char:EOLhyphen"/>pers according to the directions ſent them; and particularly, whether they are expoſed in Coffee-houſes, and Houſes of publick Entertainment for the Informa<g ref="char:EOLhyphen"/>tion of the Country, that in caſe they be defective therein, it may be rectified.</p>
+            <p n="10">10. You are to ſend for the Perſons in the reſpective Counties under-written, &amp; to deſire their help and aſſiſtance, in managing the Truſt committed to you, and to engage them and their Correſpondants, that are in the reſpective, Corporations, to manage ſuch matters and things, as upon debate you ſhall find requiſite to promote this Service, for inclining and diſpoſing Men to Elect Perſons you ſhall agree upon, and engage them in your abſence to keep a conſtant correſpondence with Mr. <hi>Brent,</hi> or Mr. <hi>Roberts,</hi> that ſuch Advice may be ſent from time to time as may be proper.</p>
+            <p n="11">11. You are alſo to conſider what Employments ſuch Correſpondents are ca<g ref="char:EOLhyphen"/>pable of, that are in the K's diſpoſe, to the end they may be recommended to ſuch Employments as may compenſate for the ſervice they have done, or ſhall do.</p>
+            <p n="12">12. You are likewiſe to inſpect the preſent ſtate of each Corporation, with re<g ref="char:EOLhyphen"/>ſpect to the Magiſtrates in being, whether there be any in that are not fit and proper, or whether any are omitted to be put into the Government, which if placed therein, may be uſeful and ſerviceable for promoting and ſecuring good
+<pb n="3" facs="tcp:54231:2"/>Elections, as alſo any other methods and expedients that have a tendency thereunto.</p>
+            <p n="13">13. You are likewiſe to confider what Mayors and Sherins in being are active in his Majeſties ſervice, and to be depended upon, and which of them are fit to be removed before the Election, either in order to their being choſen to ſerve in Parliament, or to promote the Election of others, and to engage the Sheriffs to attend in perſon at the Election, not only in the Counties, but in each reſpective Corporation, and to take care of the Returns, and alſo to give an account of the Inclination and behaviour of the reſpective Town-Cleks, Clerks of the Peace, and ſub-Sheriffs, whoſe Places render them capable of his Majeſties ſervice, in caſe they be right, but otherwiſe dangerous and prejudicial thereunto.</p>
+            <p n="14">14. Inform your ſelves what Members each Corporation intend to chooſe, &amp; if they are contrary to his Majeſties intereſt, and you find the Corporation re<g ref="char:EOLhyphen"/>ſolved upon them out of prejudice, conſider then how to give a divertion to their intentions by ſeeming to promote ſuch Perſons Election, which they obſerving may create an avertion to them, &amp; diſpoſe them to Elect others, which they are inclyned to, as ſuſpecting thoſe they before deſigned, to have privately warpt to the K's intereſt, &amp; thereby room will be made for the Electing ſuch as are right,—</p>
+            <p>Perſons propoſed as Aſſiſtants to thoſe that go into the Country for
+<list>
+                  <item>
+                     <hi>Cheſter</hi>
+                     <list>
+                        <item>Sr. <hi>Tho. Stanly</hi>
+                        </item>
+                        <item>
+                           <hi>Will Ferner</hi>
+                        </item>
+                        <item>Mr. <hi>Manwaring</hi>
+                        </item>
+                     </list>
+all of <hi>Cheſter</hi>
+                  </item>
+               </list>
+               <list>
+                  <item>
+                     <hi>Salop</hi>
+                     <list>
+                        <item>
+                           <hi>Tim Seymour</hi>
+                        </item>
+                        <item>
+                           <hi>Rich Newton</hi>
+                        </item>
+                     </list>
+of <hi>Salop.</hi>
+                     <list>
+                        <item>
+                           <hi>Chriſtop Morrall</hi> of <hi>Math-Wenlcck.</hi> of <hi>Salop.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <div n="Wales" type="section">
+               <head>Inſtructions for thoſe that ſhall go into <hi>Wales.</hi>
+               </head>
+               <p n="1">1. You ſhall make the K's <hi>Declaration</hi> the chief ſubject of your Diſcourſe with ſuch perſons as you ſhall think fit to ſpeak with, <hi>&amp;c.</hi>
+               </p>
+               <p n="2">2. You muſt make it your principal care to ſettle the minds of people, eſpe<g ref="char:EOLhyphen"/>cially of thoſe that are deſigned for Members of Parliament, or ſuch who do, or are likely to come up to the K's meaſures, in relation to the <hi>Penal Laws</hi> &amp; <hi>Teſts,</hi> againſt all endeavours, which may be made by the K's adverſaries, for diverting the effects of his good intentions, &amp; it being very probable that when-the Parlia<g ref="char:EOLhyphen"/>ment ſhall meet, this will be chiefly endeavoured by ſome indirect means, as by attempting to make ſome difference between the K. and his two Houſes of Par<g ref="char:EOLhyphen"/>liament, or eather of them, or by ſtarting ſomewhat, which may be a deſpute between the two Houſes, you are particulerly to ſorewarn and caution all per<g ref="char:EOLhyphen"/>ſons who are likely to be Members againſt this Artifice.</p>
+               <p n="3">3. You are to aſſure thoſe that are of the <hi>Ch. of England</hi> that his Majeſty will maintain the ſame according to his word.</p>
+               <p n="4">4. You are to engage all people of what perſwaſion whatever to live friendly together as becomes fellow Subjects, deſpoſing them to unite their endeavours to render effectual his Majeſties gratious Intentions, for their eaſe and advantage, &amp; you are to tell them, that his Majeſty will favour them moſt as ſhall be of that peaceable diſpoſition, as to ſacrifice all private animoſities to the publick good.</p>
+               <pb n="4" facs="tcp:54231:3"/>
+               <p n="5">5. You are to remove as much as may be all fears &amp; jealouſies out of peoples minds, by telling them his Majeſty only deſigns the univerſal happineſs of all his People.</p>
+               <p n="6">6. You are to make acquaintance with the leading active, &amp; intereſted Men in the Country, or in the Towns and Corporations, who are inclinable to abrogate the <hi>Penal Laws</hi> for Religion, and the <hi>Teſts,</hi> and ingage them to improve their Intereſt for effecting it.</p>
+               <p n="7">7. You are to inform your ſelf (as privately as may be) whether the perſons propoſed to be choſen, by the liſt given you, be rightly principled and ſo diſpo<g ref="char:EOLhyphen"/>ſed to part with the Laws, as may be depended on.</p>
+               <p n="8">8. You are to inform your ſelf whether the regulations made in the reſpective Corporations have been of proper perſons for his Majeſties Service.</p>
+               <p n="9">9. You are to inform your ſelf, who are the Electers in the reſpective <hi>Corporations</hi> and <hi>Burroughs,</hi> and by what manner Elections are made, who influ<g ref="char:EOLhyphen"/>ences them, &amp; who are fitteſt to be choſen in thoſe places where none are yet propoſed.</p>
+               <p n="10">10.—of the behaviour of the Officers of the ſeveral Branches of his Maje<g ref="char:EOLhyphen"/>ſties Revenue in relation to Elections, whether they promote his Majeſties intereſt as they ought to do, &amp; further what in them lies <hi>the repeal of the Penal Laws and Teſts.</hi>
+               </p>
+               <p n="11">11 To acquaint your ſelves with the Preachers of the Diſſenting Congregations, and encourage them to employ their intereſt, for the abrogating thoſe <hi>Laws</hi> &amp; <hi>Teſts,</hi> and if you find any of them diſſatisfied, inquire who they correſpond with in <hi>London</hi> and give notice of it.</p>
+               <p n="12">12. To inform your ſelf of ſome fit perſon in each <hi>Corporation</hi> with whom a Cor<g ref="char:EOLhyphen"/>reſpondance may be held for the knowledg of the true ſtate of the ſame, and to whom Books and Papers may be ſent, to deſperſe them for the peoples better information.</p>
+               <p n="13">13. You are from time to time to adviſe with the Catholick Gentlemen.</p>
+               <p n="14">14. You are likewiſe to inform thoſe you converſe with that <hi>Liberty of Conſci<g ref="char:EOLhyphen"/>ence</hi> hath been the cauſe of the Hollanders great Trade, Riches and Power, <hi>&amp;c.</hi>
+               </p>
+               <p n="15">15. You ſhall take care to make all perſons underſtand that the late proceed<g ref="char:EOLhyphen"/>ings againſt the Biſhops were neceſſary to ſupport his Majeſties Declaration for <hi>Liberty of Conſcience,</hi> which the King will always maintain, as likewiſe his Prero<g ref="char:EOLhyphen"/>gative on which it is founded.</p>
+               <p n="16">16. That their Diſſobedience and their Petition, were deſigned only to obſtruct the meeting of the Parliament, and to prevent the Eſtabliſhing of what they ap<g ref="char:EOLhyphen"/>prehend, <hi>&amp;c.</hi> which is ſo far from diſcouraging his Majeſty, that he is more re<g ref="char:EOLhyphen"/>ſolved than ever to purſue this great work, not doubting to effect it, whatſoever oppoſition he may meet with.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
